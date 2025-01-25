@@ -1,0 +1,6 @@
+jupyter
+pymc
+arviz
+numpy
+matplotlib
+watermark
